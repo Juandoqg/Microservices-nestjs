@@ -3,7 +3,6 @@ import { AppModule } from './app.module';
 import { MicroserviceOptions, Transport } from '@nestjs/microservices';
 
 async function bootstrap() {
-  // Levantar HTTP
   const app = await NestFactory.create(AppModule);
 
   // Conectar microservicio TCP
