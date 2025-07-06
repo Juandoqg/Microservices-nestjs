@@ -21,4 +21,4 @@ Este proyecto es un sistema básico de autenticación utilizando **microservicio
 
 ### Clonar el proyecto:
 ```bash
-git clone https://github.com/juandoqg/microservicio-auth.git
+git clone https://github.com/Juandoqg/Microservices-nestjs
